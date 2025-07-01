@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 - 🔗 [Resume (PDF)](./Wyy_CV.pdf)
 - 💼 [LinkedIn](https://www.linkedin.com/feed/)
-- 💻 [GitHub Projects](https://github.com/Ian-wyy)
+<!-- - 💻 [GitHub Projects](https://github.com/Ian-wyy) -->
 
 ---
 
