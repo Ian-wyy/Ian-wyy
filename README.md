@@ -1,4 +1,4 @@
-## Hi there 👋
+<!-- ## Hi there 👋 -->
 
 <!--
 **Ian-wyy/Ian-wyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,59 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 align="center">Hi there, I'm Yiyu Wang 👋</h1>
+
+<p align="center">
+  🎓 Mechanical Engineering @ SJTU &nbsp;|&nbsp; 🎓 Computer Science @ UMich (Second Bachelor's)  
+  <br/>
+  🤖 Researcher in Multi-Robot Systems, Planning, and Optimization
+</p>
+
+---
+
+### 🧠 About Me
+
+- 🎯 I’m currently pursuing a dual-degree in **Mechanical Engineering** at **Shanghai Jiao Tong University (SJTU)** and **Computer Science** at **University of Michigan (UMich)**.
+- 🚀 I am pursuing a **Ph.D. in Robotics** begining in Fall 2027.
+- 🐶 I’m currently conducting research on **multi-robot exploration**, **heterogeneous robot path planning**, and **heuristic search algorithms**.
+<!-- - 📝 My recent paper, *HEHA: Hierarchical Planning for Heterogeneous Multi-Robot Exploration, is submitted to **IEEE MRS 2025**. -->
+
+---
+
+### 🔧 Skills
+
+- **Languages**: C/C++, Python, MATLAB  
+- **Tools**: ROS, OR-Tools, Git, SolidWorks, tmux  
+- **OS**: Linux (Ubuntu), Windows  
+- **Spoken**: Chinese (native), English (fluent)
+
+---
+
+### 📄 Resume & Links
+
+- 🔗 [Resume (PDF)](./Wyy_CV.pdf)
+- 💼 [LinkedIn](https://www.linkedin.com/feed/)
+- 💻 [GitHub Projects](https://github.com/Ian-wyy)
+
+---
+
+### 📚 Publications
+
+- **[HEHA: Hierarchical Planning for Heterogeneous Multi-Robot Exploration of Unknown Environments](https://github.com/arasgungore/filters-and-fractals)**  
+  *Longrui Yang*, **Yiyu Wang**, Jingfan Tang — *Submitted to MRS 2025*
+
+---
+
+### 📫 Contact Me
+
+- 📧 Email: [wangyiyu@umich.edu](mailto:wangyiyu@umich.edu)
+- 📬 SJTU Address (Research): [RAP Lab](https://rap-lab.github.io/), SJTU
+- 🌐 GitHub Page: [Ian-wyy.github.io](https://Ian-wyy.github.io) 
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ian-wyy&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
