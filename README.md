@@ -51,12 +51,12 @@ Here are some ideas to get you started:
 
 ---
 
-### 📚 Publications
+<!-- ### 📚 Publications
 
 - **[HEHA: Hierarchical Planning for Heterogeneous Multi-Robot Exploration of Unknown Environments](https://github.com/arasgungore/filters-and-fractals)**  
   *Longrui Yang*, **Yiyu Wang**, Jingfan Tang — *Submitted to MRS 2025*
 
----
+--- -->
 
 ### 📫 Contact Me
 
