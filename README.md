@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 - 🎯 I’m currently pursuing a dual-degree in **Mechanical Engineering** at **Shanghai Jiao Tong University (SJTU)** and **Computer Science** at **University of Michigan (UMich)**.
 - 🚀 I am pursuing a **Ph.D. in Robotics** begining in Fall 2027.
-- 🐶 I’m currently conducting research on **multi-robot exploration**, **heterogeneous robot path planning**, and **heuristic search algorithms**.
+- 🐶 I’m currently conducting research on **multi-robot system**, **heuristic search algorithms**, **3DGS SLAM**, and **Humanoid**.
 <!-- - 📝 My recent paper, *HEHA: Hierarchical Planning for Heterogeneous Multi-Robot Exploration, is submitted to **IEEE MRS 2025**. -->
 
 ---
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 ### 🔧 Skills
 
 - **Languages**: C/C++, Python, MATLAB  
-- **Tools**: ROS, OR-Tools, Git, SolidWorks, tmux  
+- **Tools**: PyTorch, Isaac Lab, ROS, OR-Tools, Git, SolidWorks, tmux  
 - **OS**: Linux (Ubuntu), Windows  
 - **Spoken**: Chinese (native), English (fluent)
 
@@ -45,7 +45,8 @@ Here are some ideas to get you started:
 
 ### 📄 Resume & Links
 
-- 🔗 [Resume (PDF)](./Wyy_CV.pdf)
+
+<!-- - 🔗 [Resume (PDF)](./Wyy_CV.pdf) -->
 - 💼 [LinkedIn](https://www.linkedin.com/feed/)
 <!-- - 💻 [GitHub Projects](https://github.com/Ian-wyy) -->
 
@@ -53,15 +54,17 @@ Here are some ideas to get you started:
 
 <!-- ### 📚 Publications
 
-- **[HEHA: Hierarchical Planning for Heterogeneous Multi-Robot Exploration of Unknown Environments](https://github.com/arasgungore/filters-and-fractals)**  
-  *Longrui Yang*, **Yiyu Wang**, Jingfan Tang — *Submitted to MRS 2025*
+- **[HEHA: Hierarchical Planning for Heterogeneous Multi-Robot Exploration of Unknown Environments]([arxiv](https://arxiv.org/abs/2510.04161))**  
+  *Longrui Yang*, **Yiyu Wang**, Jingfan Tang, et al.
 
 --- -->
 
 ### 📫 Contact Me
 
 - 📧 Email: [wangyiyu@umich.edu](mailto:wangyiyu@umich.edu)
-- 📬 SJTU Address (Research): [RAP Lab](https://rap-lab.github.io/), SJTU
+- 📬 SJTU Address (Research):
+  - [RAP Lab](https://rap-lab.github.io/), SJTU
+  - [SSI Lab](https://ssi.robotics.umich.edu/), Umich
 - 🌐 GitHub Page: [Ian-wyy.github.io](https://Ian-wyy.github.io) 
 
 ---
