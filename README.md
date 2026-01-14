@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 ### 📫 Contact Me
 
 - 📧 Email: [wangyiyu@umich.edu](mailto:wangyiyu@umich.edu)
-- 📬 SJTU Address (Research):
+- 📬 Research:
   - [RAP Lab](https://rap-lab.github.io/), SJTU
   - [SSI Lab](https://ssi.robotics.umich.edu/), Umich
 - 🌐 GitHub Page: [Ian-wyy.github.io](https://Ian-wyy.github.io) 
