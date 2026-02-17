@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hi there, I'm Yiyu Wang 👋</h1>
 
 <p align="center">
-  🎓 Mechanical Engineering @ SJTU &nbsp;|&nbsp; 🎓 Computer Science @ UMich (Second Bachelor's)  
+  🎓 Mechanical Engineering @ SJTU &nbsp;|&nbsp; 🎓 Computer Science @ UMich 
   <br/>
-  🤖 Researcher in Multi-Robot Systems, Planning, and Optimization
+  🤖 Researcher in Multi-Robot Systems, Planning, Optimization and 3DGS SLAM
 </p>
 
 ---
