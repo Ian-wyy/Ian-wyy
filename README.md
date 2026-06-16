@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 - 🎯 I’m currently pursuing a dual-degree in **Mechanical Engineering** at **Shanghai Jiao Tong University (SJTU)** and **Computer Science** at **University of Michigan (UMich)**.
 - 🚀 I am pursuing a **Ph.D. in Robotics** begining in Fall 2027.
-- 🐶 I’m currently conducting research on **multi-robot system**, **heuristic search algorithms**, **3DGS SLAM**, and **Humanoid**.
+- 🐶 I’m currently conducting research on **multi-robot system**, **heuristic search algorithm**, **neural-symbolic AI** and **coding agent**.
 <!-- - 📝 My recent paper, *HEHA: Hierarchical Planning for Heterogeneous Multi-Robot Exploration, is submitted to **IEEE MRS 2025**. -->
 
 ---
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 ### 🔧 Skills
 
 - **Languages**: C/C++, Python, MATLAB  
-- **Tools**: PyTorch, Isaac Lab, ROS, OR-Tools, Git, SolidWorks, tmux  
+- **Tools**: PyTorch, Isaac Lab, ROS, OR-Tools, Git, SolidWorks, tmux
 - **OS**: Linux (Ubuntu), Windows  
 - **Spoken**: Chinese (native), English (fluent)
 
